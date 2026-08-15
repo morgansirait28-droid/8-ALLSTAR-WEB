@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://8allstar.web.id/sitemap.xml
